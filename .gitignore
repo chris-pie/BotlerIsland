@@ -1,8 +1,10 @@
 # Ignore all pickle files, copies should work sterile.
 data
+*.db
 *.log
 __pycache__
 avatar.png
 encrypttoken.py
+cogs_tenseibot.py
 spat.txt
 *token.dat
